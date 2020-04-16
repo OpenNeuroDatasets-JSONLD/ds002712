@@ -1,0 +1,9 @@
+
+{
+    "Name": "Numbers and Letters",
+    "BIDSVersion":  "1.1.1",
+    "License": "http://www.gnu.org/licenses/",
+    "Authors": ["Sara Aurtenetxe", "Nicola Molinaro", "Doug Davidson","Manuel Carreiras"],
+    "ReferencesAndLinks": ["https://www.ncbi.nlm.nih.gov/pubmed/XXXXXXXXX"],
+    "DatasetDOI": "XXXXXXXXXXXXX"
+}
